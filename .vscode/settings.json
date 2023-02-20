@@ -1,3 +1,4 @@
 {
-    "superBG.opacity": 30
+    "superBG.opacity": 30,
+    "liveServer.settings.port": 5501
 }
